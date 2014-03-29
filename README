@@ -1,0 +1,8 @@
+A method for extracting visual landmarks from images automatically.
+
+The following are needed:
+OpenCV 2.2+
+
+The code needs some cleaning up, not tested for a long while.
+If the code doesn't work, please get in touch with me at e.sariyanidi [at] qmul [dot] a [dot] uk
+

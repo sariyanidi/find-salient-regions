@@ -1,0 +1,4 @@
+./resources/OxfordVocab_Surf_11k.oxv
+./resources/OxfordVocab_Marginals_11k.oxv
+./resources/syntheticLocations.txt
+./resources/OxfordVocab_Surf_11k.oxs

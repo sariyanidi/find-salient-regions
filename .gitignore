@@ -1,0 +1,5 @@
+*.o
+FindMarginalRegions
+*.pro.user
+Makefile
+datasets

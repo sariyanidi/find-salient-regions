@@ -1,0 +1,13 @@
+./resources/IndoorVocab_10k_KMeansRadiusBased.oxv
+./resources/IndoorVocab_10k_KMeansRadiusBased _Marginals.oxv
+./resources/syntheticLocations.txt
+./resources/IndoorVocab_10k_KMeansRadiusBased.oxs
+./resources/parentsFile.txt
+./resources/relevantConditionals.txt
+./resources/relevantNotConditionals.txt
+
+
+
+
+
+
